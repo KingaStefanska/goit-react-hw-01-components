@@ -11,11 +11,11 @@ li {
   list-style: none;
   display: flex;
   padding: 10px;
-  border: 2px solid brown;
+  border: 2px solid whitesmoke;
   width: 300px;
   border-radius: 10px;
   margin-bottom: 10px;
-  box-shadow: 0 5px 5px rgb(100, 21, 21);
+  box-shadow: 0 5px 5px whitesmoke;
   justify-content: center;
 }
 
